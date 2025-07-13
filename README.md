@@ -22,3 +22,4 @@ This implementation is fully based on standard Java classes without any external
 
 # OUTPUT
 
+<img width="543" height="112" alt="Image" src="https://github.com/user-attachments/assets/fb209a93-ceb8-4c3f-ae06-fd5714b9745e" />
